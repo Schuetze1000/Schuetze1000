@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Schuetze1000
 - 🌵 21 years old
-- 👀 Dual student Cybersecurity at the cooperative state universiy Mannheim 
+- 👀 Dual cybersecurity student at the Cooperative State University Mannheim
 - 🌱 I’m currently learning C++ and Python.
